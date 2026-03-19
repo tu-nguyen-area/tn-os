@@ -13,7 +13,7 @@ export default function SectionOne() {
           <p className="text-black">The open source operating system powers billions of PCs and laptops around the world.</p>
           <p className="text-black">Ship with Xorg, Fluxbox, Firefox web browser.</p>
           <div className="my-6 grid md:flex gap-8">
-            <Link target="_blank" href="https://drive.google.com/file/d/10OuaUK24CSIYsFs9CCnU6jw4pNWDsD30/view">
+            <Link target="_blank" href="https://drive.google.com/file/d/1AsukG0t52kecqMKIQIvKWuyaz2D2GZin/view">
               <button className="bg-black rounded-lg text-white p-2 w-full
                 md:w-36 h-10 hover:bg-gradient-to-r hover:from-blue-500
                 hover:via-purple-500 hover:to-rose-500"
@@ -21,12 +21,12 @@ export default function SectionOne() {
                 TNOS Desktop
               </button>
             </Link>
-            <Link target="_blank" href="https://drive.google.com/file/d/1-eR4qUrLUxpYQxlUZv3-vp0evIAr42EN/view">
+            <Link target="_blank" href="https://drive.google.com/file/d/113kChDaPBONhU6AHYM_a6fpvau8nofx4/view">
               <button className="bg-black rounded-lg text-white p-2 w-full
                 md:w-36 h-10 hover:bg-gradient-to-r hover:from-blue-500
                 hover:via-purple-500 hover:to-rose-500"
               >
-                TNOS Gnome
+                TNOS Plasma
               </button>
             </Link>
           </div>

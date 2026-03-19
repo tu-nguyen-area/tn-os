@@ -3,9 +3,9 @@ import Image from 'next/image';
 
 const lLinks = [
   {
-    name: "TNOS 0.0.7 - GCC 16.1.0 | Glibc 2.43 | Linux 6.20.1",
-    url: "#",
-    version: "Coming soon...",
+    name: "TNOS 0.0.7 - GCC 16.0.1 | Glibc 2.43 | Linux 7.0.0",
+    url: "https://drive.google.com/file/d/167fy_0jBL_KN-Iy_HpREN-o1ZdFHbgD8/view",
+    version: "TNOS Core 0.0.7",
   },
   {
     name: "TNOS 0.0.6 - GCC 15.2.0 | Glibc 2.42 | Linux 6.16.1",
